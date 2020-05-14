@@ -4,7 +4,7 @@ a version of the game pentago  where insted of having to have 5 pices of the sam
 icludes graphics and use from graphics.h
 the main file is called pentago.cpp
 
-the functions i wrote and used in this are in functions.c
+the functions i wrote and used in this are in functions.cpp
 and the header is functions.h
 
 
