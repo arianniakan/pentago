@@ -10,5 +10,7 @@ and the header is functions.h
 
 you can also use pentago.exe to run the game and try it
 
+use w a s d keys to navigate and use the f key to select
+
 
 *written in c*
