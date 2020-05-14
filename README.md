@@ -8,4 +8,7 @@ the functions i wrote and used in this are in functions.cpp
 and the header is functions.h
 
 
+you can also use pentago.exe to run the game and try it
+
+
 *written in c*
